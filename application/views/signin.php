@@ -1,0 +1,1 @@
+<?php echo "CI3-HMVC"; ?>
